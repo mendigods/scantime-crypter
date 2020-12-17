@@ -12,3 +12,11 @@ A ScanTime crypter encrypts the file so antiviruses won’t be able to analyze t
 ```shell
 $ python scantime-crypter.py </path/to/malware.exe>
 ```
+---
+
+<h2>Buy me a coffe</h2>
+
+>BTC wallet: 19zbdRCGToV2LPKH8QgxbN5SkaZumUNWou
+
+<h2>Contacts:</h2>
+My Twitter: <a href="https://twitter.com/DeltaPentester" target="_blank">@DeltaPentester</a>
